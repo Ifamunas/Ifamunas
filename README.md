@@ -14,5 +14,5 @@
 ## 🛠️ Skills: 
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,bootstrap,c,cpp,css,git,github,html,java,js,latex,mongodb,mysql,nodejs,npm,php,postman,pycharm,py,react,redux,regex,sass,sqlite,ts,vscode)](https://skillicons.dev)
 
-# 🌐 Socials:
+## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-alnasser/)
