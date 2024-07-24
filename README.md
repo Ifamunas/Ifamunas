@@ -12,7 +12,7 @@
 📫 Don't hesitate to reach out via email at [alnasserf13@gmail.com](alnasserf13@gmail.com)
 
 ## 🛠️ Skills: 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,aws,babel,bash,bootstrap,c,cpp,css,express,git,github,html,java,js,latex,linkedin,mongodb,mysql,netlify,nodejs,notion,npm,php,postman,pycharm,py,react,redux,regex,sass,sqlite,sklearn,ts,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,aws,babel,bash,bootstrap,c,cpp,css,express,git,github,html,java,js,latex,linkedin,mongodb,mysql,netlify,nodejs,notion,npm,php,postman,pycharm,py,react,redux,regex,sass,sqlite,sklearn,ts,vite,vscode)](https://skillicons.dev)
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-alnasser/)
