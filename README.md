@@ -19,3 +19,8 @@
 
 ## 🏆 GitHub Trophies:
  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=Ifamunas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Ifamunas's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ifamunas&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Ifamunas's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ifamunas&theme=tokyonight&hide_border=true" alt="Ifamunas's GitHub Stats" />
